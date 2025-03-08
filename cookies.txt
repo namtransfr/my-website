@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+pantip.com	TRUE	/	FALSE	1999999999	PHPSESSID	5altqe9bke4lp86ie6vm31qpi1
+pantip.com	TRUE	/	FALSE	1999999999	real_referer	%3A%2F%2Fpantip.com%2Fs%2Fuo56e
+pantip.com	TRUE	/	FALSE	1999999999	pantip_sessions	zFwcbsHdjlwcBzIPD6YbZjSGlc1g3M%2FIhy2D%2BKPL4Wd1WqRsHYH3o3KNhlY7IIrSP0Fr7r5xx6J%2F4%2BpaQpgBRPe%2FeqTgnj2%2FJiThZ5QGlQ%2BttJX1cXdYdVYygIgeXG88HASqfU5J2UMaEqpCmYXSlqL0fBkqmHNxvvT6wOEePQn8e3eKSHqMzlI9W0lPSNUyFblxq%2FOP4UENDymXwGD3iIg4ASgnHfrZnSJCHdymyQ4yWcJ7kQ0GpTXBIT%2Bc9QtnG8S1fs1IUlhl2ac3AbEGrFM0xIc5f3r0ZJYidNovdP68rxEhuaErk7YGFi4V2%2FwnIBcBmr%2BPSuPVXIUCYg%2B00g%3D%3D
+pantip.com	TRUE	/	FALSE	1999999999	rlr	43120183
+pantip.com	TRUE	/	FALSE	1999999999	SameSite	None
+pantip.com	TRUE	/	FALSE	1999999999	pantip_visitc	ssqzlf13XKX55p2rIK
+
